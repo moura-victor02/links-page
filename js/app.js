@@ -7,7 +7,7 @@ const header = document.querySelector('.header.container');
 
 var urlprojeto1 = document.querySelector(".contact-item");
 urlprojeto1.addEventListener("click", function() {
-    window.open("mailto:enzomoru3@gmail.com?body=Ol%C3%A1%20Enzo%2C%20tudo%20bem%3F", "_blank");
+    window.open("https://moura-victor02.github.io/Dev.enzo/", "_blank");
 });
 var urlprojeto1 = document.querySelector(".contact-item2");
 urlprojeto1.addEventListener("click", function() {
