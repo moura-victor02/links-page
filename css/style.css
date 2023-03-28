@@ -14,9 +14,15 @@ body {
 }
 #contact .contact-items {
 	width: 100%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    position: relative;
+    flex-direction: column;
     
 }
 #contact .contact-item {
+    cursor: pointer;
 	width: 40%;
 	padding: 10px;
 	text-align: center;
@@ -46,9 +52,11 @@ body {
 
 #contact .contact-info h1 {
 	font-size: 1.5rem;
-	font-weight: 50;
-	margin-bottom: 2px;
+	font-weight: 25px;
+	margin-bottom: 1px;
 	color:black;
+    margin-top: 0%;
+    cursor: pointer;
 	
 }
 .foto-perfil {
