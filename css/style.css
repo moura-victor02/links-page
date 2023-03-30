@@ -82,10 +82,11 @@ footer {
 	#contact .contact-info h1 {
 		font-size: 1.2rem;
 		font-weight: 25px;
-		margin-bottom: 1px;
+		margin-bottom: 2px;
 		color:black;
 		margin-top: 0%;
 		cursor: pointer;
+		margin-top: 0.5px;
 	}
 
 	#contact .contact-items {
@@ -99,7 +100,7 @@ footer {
 	#contact .icon {
 	    	width: auto;
 			margin: 0 auto;
-			margin-bottom: 10px;
+			margin-bottom: 8px;
 			margin-top: 4px;
 	}
 
