@@ -22,3 +22,8 @@ var urlprojeto1 = document.querySelector(".contact-item4");
 urlprojeto1.addEventListener("click", function() {
     window.open("https://www.instagram.com/e_vmoura/", "_blank");
 });
+
+var urlprojeto1 = document.querySelector(".name");
+urlprojeto1.addEventListener("click", function() {
+    window.open("https://www.instagram.com/e_vmoura/", "_blank");
+});
